@@ -1,0 +1,87 @@
+<!doctype html>
+<html ng-app=podiatry>
+
+<head>
+  <meta charset=utf-8>
+  <title>The College of Podiatry</title>
+  <meta name=description
+    content="Podiatry or podiatric medicine is a branch of medicine devoted to the study and diagnosis and treatment of disorders of the foot ankle and associated structures.">
+  <meta name=viewport
+    content="width=device-width,height=device-height,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1">
+  <link rel=icon href=favicon.ico type=image/x-icon> <!-- For third-generation iPad with high-resolution Retina display:
+    -->
+  <link rel=apple-touch-icon-precomposed sizes=144x144 href=assets/images/Icon@2x.png> <!-- For iPhone with
+    high-resolution Retina display: -->
+  <link rel=apple-touch-icon-precomposed sizes=114x114 href=assets/images/Icon@2x.png> <!-- For first- and
+    second-generation iPad: -->
+  <link rel=apple-touch-icon-precomposed sizes=72x72 href=assets/images/Icon-76.png> <!-- For non-Retina iPhone, iPod
+    Touch, and Android 2.1+ devices: -->
+  <link rel=apple-touch-icon-precomposed href=assets/images/Icon.png> <script src=https://use.typekit.net/pur6fdy.js>
+  </script> <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
+  <script>(function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-76307549-1', 'auto');
+      //ga('send', 'pageview');</script><!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  <link rel=stylesheet href=styles/vendor-502a0a4f0d.css> <link rel=stylesheet href=styles/app-b623a8006b.css> 
+
+  <style>
+  
+  #video-header-playbtn{
+    display:none;
+  }
+  </style>
+
+
+</head>
+    <body device-detector>
+  <!--[if lt IE 10]>
+  <div class="oldBrowser">
+    <div class="content">
+      <h1>The College Of Podiatry</h1>
+
+      <h2>Old Browser</h2>
+      You are using an <strong>outdated</strong> browser. Please update your browser.
+
+      <ul id="browserlist">
+        <li id="chrome"><a href="https://www.google.com/intl/en/chrome/browser/">
+          <div class="icon"></div>
+          <h1>Google Chrome</h1><span>Download here</span></a></li>
+        <li id="firefox"><a
+          href="https://www.mozilla.org/en-US/firefox/new/?utm_source=firefox-com&utm_medium=referral">
+          <div class="icon"></div>
+          <h1>Mozilla Firefox</h1><span>Download here</span></a></li>
+        <li id="safari"><a href="http://www.apple.com/safari/">
+          <div class="icon"></div>
+          <h1>Safari</h1><span>Download here</span></a></li>
+        <li id="opera"><a
+          href="http://www.opera.com/?utm_expid=8257061-8.I2qBJab0QEqZAoVjI3nVDw.0&utm_referrer=http%3A%2F%2Fbrowsehappy.com%2F">
+          <div class="icon"></div>
+          <h1>Opera</h1><span>Download here</span></a></li>
+        <li id="ie"><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+          <div class="icon"></div>
+          <h1>Internet Explorer</h1><span>Download here</span></a></li>
+      </ul>
+
+      <div class="footer">For more information please visit <a href="http://browsehappy.com/">Browse Happy</a></div>
+    </div>
+  </div>
+  <![endif]-->
+  <div id=app ui-view>
+    <div class=loader-overlay ng-show=isLoading ng-cloak>
+      <div class=holder><img class=loader-logo src=assets/images/coat-of-arms.png alt="The College of Podiatry">
+        <div class=loader>Loading...</div>
+        <div class=percent ng-cloak>{{percentLoaded }}%</div>
+      </div>
+    </div>
+    <div ng-show="isSuccessful && !isLoading">
+      <acme-navbar></acme-navbar>
+      <div id=content ui-view=content class=gsapify-router autoscroll=false ng-cloak></div>
+    </div>
+    <div id=subcontent ui-view=subcontent class=gsapify-router autoscroll=false></div>
+  </div>
+  <script src=scripts/vendor-ea5c6a9295.js> </script> <script src=scripts/app-3e705ed394.js> </script> </body> </html>

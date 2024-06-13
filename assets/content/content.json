@@ -1,0 +1,438 @@
+[{
+  "content":[
+    {
+      "id": 0,
+      "hash":"home",
+      "header": "The College of Podiatry",
+      "body": "Podiatry or Podiatric Medicine is a branch of medicine devoted to the study and diagnosis and treatment of disorders of the foot ankle and associated structures.",
+      "video": [
+        "https://s3-eu-west-1.amazonaws.com/podiatryvideo/WhatisPodiatry_3000Kbps_720p.mp4",
+        "https://s3-eu-west-1.amazonaws.com/podiatryvideo/WhatisPodiatry_WebM_3000Kbps_720p.webm"
+        ],
+      "professional":  {
+        "id": 6,
+        "hash":"professional",
+        "header": "The College of Podiatry",
+        "councilleft": [
+          "Professional Indemnity",
+          "Accredited Practice Scheme",
+          "Branches Network",
+          "Health & Safety"
+        ],
+        "councilright": [
+          "Marketing & Communications",
+          "Employment Relations",
+          "Trade Union",
+          "Delegate Assembly"
+        ],
+        "experts": [
+          "Medicines / Medical Devices",
+          "Journal of Foot & Ankle Research",
+          "National Conference",
+          "Research & Development",
+          "Quality Assurance",
+          "College of Podiatry Students Association"
+        ],
+        "directorates":[
+          "Podiatric Medicine",
+          "Independent Practice",
+          "Public Sector Management",
+          "Podiatric Surgery",
+          "Podiatric Education"
+        ],
+        "video": [
+          "https://s3-eu-west-1.amazonaws.com/podiatryvideo/the_profession_3000Kbps_720p.mp4",
+          "https://s3-eu-west-1.amazonaws.com/podiatryvideo/the_profession_WebM_3000Kbps_720p.webm"
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "hash":"first_step",
+      "header": "First Steps",
+      "sub": "Personal | Experimental | Learning",
+      "body": "Whether you are straight from school or coming to podiatry as a second career your time at university will be a challenging but exciting journey towards an ever changing profession.",
+      "customlink": "http://www.careersinpodiatry.com/how-to-become-a-podiatrist/",
+      "customtext": "careersinpodiatry",
+      "customimg": "/assets/images/careers-in-podiatry-logo.png",
+      "videos": [
+        {
+          "id": "0",
+          "hash": "usamah",
+          "link":  [
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileUsamah_3000Kbps_720p.mp4",
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileUsamah_WebM_3000Kbps_720p.webm"
+          ],
+          "image": "first-steps-usamah",
+          "mobile": "first-steps-mobile-usamah",
+          "pos": "-40",
+          "title": "Usamah"
+        },
+        {
+          "id": "1",
+          "hash": "christie",
+          "link": [
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileChristie_3000Kbps_720p.mp4",
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileChristie_WebM_3000Kbps_720p.webm"
+          ],
+          "image": "first-steps-christie",
+          "mobile": "first-steps-mobile-christie",
+          "pos": "-20",
+          "title": "Christie"
+        },
+        {
+          "id": "2",
+          "hash": "hinson",
+          "link":  [
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileHinson_3000Kbps_720p.mp4",
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileHinson_WebM_3000Kbps_720p.webm"
+          ],
+          "image": "first-steps-hinson",
+          "mobile": "first-steps-mobile-hinson",
+          "pos": "0",
+          "title": "Hinson"
+        },
+        {
+          "id": "3",
+          "hash": "megan",
+          "link":  [
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/Profile+Megan_3000Kbps_720p.mp4",
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/Profile+Megan_WebM_3000Kbps_720p.webm"
+          ],
+          "image": "first-steps-megan",
+          "mobile": "first-steps-mobile-megan",
+          "pos": "20",
+          "title": "Megan"
+        },
+        {
+          "id": "4",
+          "hash": "faye",
+          "link":  [
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileFaye_3000Kbps_720p.mp4",
+            "https://s3-eu-west-1.amazonaws.com/podiatryvideo/ProfileFaye_WebM_3000Kbps_720p.webm"
+          ],
+          "image": "first-steps-faye",
+          "mobile": "first-steps-mobile-faye",
+          "pos": "40",
+          "title": "Faye"
+        }
+      ]
+    },
+
+
+    {
+      "id": 2,
+      "hash":"social",
+      "header": "Social Wall",
+      "body": "Check out all of the social media activity for the college and students, plus we would love to hear about your own experiences too. Simply add our address below when posting anything podiatry related to have your content appear on the social wall.",
+      "background": "",
+      "sociallink": [
+        {
+          "id": 0,
+          "title": "facebook",
+          "link": "https://www.facebook.com/scpod/"
+        },
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/SCP_PodiatryUK"
+        },
+        {
+          "id": 2,
+          "title": "youtube",
+          "link": "https://www.youtube.com/channel/UCAFI0Dj_GfB3oe8TvZqok3A"
+        }
+      ]
+    },
+
+
+    {
+      "id": 3,
+      "hash":"practice",
+      "header": "Podiatry in Practice",
+      "body": "The huge variety of conditions that a podiatrist treats lends itself to a broad clinical experience in practice. The option to specialise & develop your practice in one area means you can focus your work should this be something you wish to embark on.",
+      "videos": [
+        {
+          "id": "0",
+          "link": "https://www.youtube.com/embed/tD0XPuK-VzI",
+          "image": "/assets/images/practice-private.jpg",
+          "title": "Private Practice",
+          "name": "Suzanne Taylor",
+          "tag": "#SUZYPP"
+        },
+        {
+          "id": "1",
+          "link": "https://www.youtube.com/embed/WnE1zKxZZv0",
+          "image": "/assets/images/practice-foot-surgery.jpg",
+          "title": "Podiatric Surgery",
+          "name": "Trevor Prior",
+          "tag": "#TREVPODSURG"
+        },
+        {
+          "id": "2",
+          "link": "https://www.youtube.com/embed/BJkhLF6699I",
+          "image": "/assets/images/practice-nail-surgery.jpg",
+          "title": "Nail Surgery",
+          "name": "Richard Thompson",
+          "tag": "#RICHARDNAILSURG"
+        },
+        {
+          "id": "3",
+          "link": "https://www.youtube.com/embed/_2WouylYERQ",
+          "image": "/assets/images/practice-routine-clinic.jpg",
+          "title": "Podiatric Clinic",
+          "name": "Rory O’Donoghue",
+          "tag": "#RORYPODCLINIC"
+        },
+        {
+          "id": "4",
+          "link": "https://www.youtube.com/embed/3gePD38H45g",
+          "image": "/assets/images/practice-diabetes.jpg",
+          "title": "Diabetes",
+          "name": "Matt Collison",
+          "tag": "#MATTDIABETES"
+        },
+        {
+          "id": "5",
+          "link": "https://www.youtube.com/embed/yy3QE4iGfa0",
+          "image": "/assets/images/practice-msk.jpg",
+          "title": "Musculoskeletal",
+          "name": "Matthew Fitzpatrick",
+          "tag": "#MATTHEWMSK"
+        },
+        {
+          "id": "6",
+          "link": "https://www.youtube.com/embed/9q_O4gYWhSE",
+          "image": "/assets/images/practice-education.jpg",
+          "title": "Education",
+          "name": "Lisa Chandler",
+          "tag": "#LISALECTURER"
+        },
+        {
+          "id": "7",
+          "link": "https://www.youtube.com/embed/xaTnBkl821E",
+          "image": "/assets/images/practice-forensics.jpg",
+          "title": "Forensics",
+          "name": "Sarah Reel",
+          "tag": "#SARAHFORENSICS"
+        }
+      ]
+    },
+
+
+    {
+      "id": 4,
+      "hash":"degree",
+      "header": "The Degree",
+      "body": "There are 14 universities in the UK and Republic of Ireland offering a full time Bachelor of Science Honours degree in Podiatry / Podiactric Medicine in the UK. The course takes 3 or 4 years to complete depending on where you choose to study. To qualify & practice as a podiatrist you are required to pass all of the courses. This involves clinical work with patients, both in academic & placement environment.",
+      "video": "https://www.youtube.com/embed/DhEJUXI4nF0",
+      "map": {
+        "image": "/assets/images/uni-map.jpg",
+        "universities": [
+          {
+            "id": "1",
+            "link": "http://www.bmetc.ac.uk/",
+            "title": "Birmingham Metropolitan University"
+          },
+          {
+            "id": "2",
+            "link": "http://www.newcollegedurham.ac.uk/",
+            "title": "New College Durham"
+          },
+          {
+            "id": "3",
+            "link": "https://www.brighton.ac.uk/courses/index.aspx",
+            "title": "University of Brighton"
+          },
+          {
+            "id": "4",
+            "link": "http://www2.hud.ac.uk/",
+            "title": "The University of Huddersfield"
+          },
+          {
+            "id": "5",
+            "link": "https://www.uel.ac.uk/",
+            "title": "University of East London"
+          },
+          {
+            "id": "6",
+            "link": "http://www.salford.ac.uk/health-sciences",
+            "title": "University of Salford"
+          },
+          {
+            "id": "7",
+            "link": "http://www.northampton.ac.uk/",
+            "title": "University of Northampton"
+          },
+          {
+            "id": "8",
+            "link": "https://www.plymouth.ac.uk/",
+            "title": "University of Plymouth"
+          },
+          {
+            "id": "9",
+            "link": "http://www.southampton.ac.uk/",
+            "title": "University of Southampton"
+          },
+          {
+            "id": "10",
+            "link": "http://www.qmu.ac.uk/",
+            "title": "Queen Margaret University"
+          },
+          {
+            "id": "11",
+            "link": "http://www.gcu.ac.uk/",
+            "title": "Glasgow Caledonian University"
+          },
+          {
+            "id": "12",
+            "link": "http://www.ulster.ac.uk/",
+            "title": "University of Ulster"
+          },
+          {
+            "id": "13",
+            "link": "https://www.cardiffmet.ac.uk",
+            "title": "Cardiff Metropolitan University"
+          },
+          {
+            "id": "14",
+            "link": "http://www.nuigalway.ie/",
+            "title": "NUI Galway"
+          }
+        ],
+        "position": []
+      },
+
+      "videos": [
+        {
+          "id": "0",
+          "link": "https://www.youtube.com/embed/aNkOcZ8IeN4",
+          "image": "/assets/images/degree-video-study.jpg",
+          "title": "University Life"
+        },
+        {
+          "id": "1",
+          "link": "https://www.youtube.com/embed/MyCrhgbac7k",
+          "image": "/assets/images/degree-video-clinical.jpg",
+          "title": "Clinical Practice"
+        },
+        {
+          "id": "2",
+          "link": "https://www.youtube.com/embed/dHDPXLOEV3A",
+          "image": "/assets/images/degree-video-placement.jpg",
+          "title": "Placement / Conference"
+        },
+        {
+          "id": "3",
+          "link": "https://www.youtube.com/embed/_XPPQC5qkaM",
+          "image": "/assets/images/degree-video-examination.jpg",
+          "title": "Examination / 1:1"
+        }
+      ],
+      "coursestructure": [
+        {
+          "year": [
+            {
+              "title": "Year 1",
+              "course": [
+                {
+                  "id": 0,
+                  "title": "Anatomy",
+                  "position": "top"
+                },
+                {
+                  "id": 1,
+                  "title": "Pathology",
+                  "position": "bottom"
+                },
+                {
+                  "id": 2,
+                  "title": "Physiology",
+                  "position": "top"
+                },
+                {
+                  "id": 3,
+                  "title": "Professional Practice Studies",
+                  "position": "bottom"
+                },
+                {
+                  "id": 4,
+                  "title": "Clinical Studies",
+                  "position": "top"
+                }
+              ]
+            },
+            {
+              "title": "Year 2",
+              "course": [
+                {
+                  "id": 0,
+                  "title": "Clinical Studies / Placements",
+                  "position": "bottom"
+                },
+                {
+                  "id": 1,
+                  "title": "Podiatric Medicine",
+                  "position": "top"
+                },
+                {
+                  "id": 2,
+                  "title": "Pharmacology",
+                  "position": "bottom"
+                },
+                {
+                  "id": 3,
+                  "title": "Podiatric Speciality Clinics",
+                  "position": "top"
+                },
+                {
+                  "id": 4,
+                  "title": "Research Methods",
+                  "position": "bottom"
+                }
+              ]
+            },
+            {
+              "title": "Year 3",
+              "course": [
+                {
+                  "id": 0,
+                  "title": "Sports & Paediatrics",
+                  "position": "top"
+                },
+                {
+                  "id": 1,
+                  "title": "Clinical Studies",
+                  "position": "bottom"
+                },
+                {
+                  "id": 2,
+                  "title": "Nail Surgery",
+                  "position": "top"
+                },
+                {
+                  "id": 3,
+                  "title": "The Foot at Risk",
+                  "position": "bottom"
+                },
+                {
+                  "id": 4,
+                  "title": "Dissertation",
+                  "position": "top"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "id": 5,
+      "hash":"opportunities",
+      "header": "Career Opportunities",
+      "body": "The benefit of an honours degree in podiatry means you are able to work in both the NHS and Private setting. Having exposure to the vast array of clinical conditions affecting a person’s feet can lead you in many different areas of practice. Options include sports podiatry, surgery, dermatology, paediatrics and now forensics along with staying in education and teaching settings. Being able to specialise but also maintain a broad clinical practice enables you to keep your options wide open."
+    }
+  ]
+}]
